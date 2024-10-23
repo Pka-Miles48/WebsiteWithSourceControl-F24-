@@ -1,18 +1,1 @@
-# WebsiteWithSourceControl-F24- 
 This repository is an example that is being used to gain
-experience with source control and TypeScript.
-
-## Live website
-This live website is hosted by [live website](https://pka-miles48.github.io/WebsiteWithSourceControl-F24-/)
-
-## Getting Started
-
-### Installing TypeScript
-- Download and Install the LTS version of [Node.js](https://nodejs.org/)
--In the command line run `npm install -g typescript`. Note: "typescript" needs to be all lowercase
-
-### Compelling TypeScript
-To complie the TypeScript files with the watch option,
-run the following command: `tsc --watch`. Using the
-watch option, only requires us to compile once each
-time the project is opened.
