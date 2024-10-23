@@ -1,5 +1,5 @@
 # WebsiteWithSourceControl-F24- 
-This repository is an example that is used to gain
+This repository is an example that is being used to gain
 experience with source control and TypeScript.
 
 ## Live website
